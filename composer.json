@@ -1,0 +1,19 @@
+{
+    "name": "danog/smsactivate",
+    "description": "OOP Wrapper for sms-activate.ru",
+    "type": "project",
+    "license": "AGPLV3",
+    "homepage": "https://daniil.it/SMSActivate",
+    "keywords": ["SMS", "wrapper", "API"],
+    "authors": [
+        {
+            "name": "Daniil Gentili",
+            "email": "daniil@daniil.it"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "danog\\": "src/"
+        }
+    }
+}
